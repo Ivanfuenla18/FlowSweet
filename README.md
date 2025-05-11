@@ -61,7 +61,5 @@ Si tienes alguna sugerencia o quieres colaborar, no dudes en escribirme a [ivanf
 📝 Licencia
 Este proyecto está bajo la licencia MIT. Puedes usarlo, modificarlo y distribuirlo libremente.
 
-Copiar
-Editar
 
 
