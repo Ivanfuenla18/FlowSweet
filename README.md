@@ -56,7 +56,7 @@ Copiar
 Editar
 npm run dev
 📬 Contacto
-Si tienes alguna sugerencia o quieres colaborar, no dudes en escribirme a [tuemail@example.com] o abrir un issue.
+Si tienes alguna sugerencia o quieres colaborar, no dudes en escribirme a [ivanfuenla18@gmail.com] o abrir un issue.
 
 📝 Licencia
 Este proyecto está bajo la licencia MIT. Puedes usarlo, modificarlo y distribuirlo libremente.
@@ -64,4 +64,4 @@ Este proyecto está bajo la licencia MIT. Puedes usarlo, modificarlo y distribui
 Copiar
 Editar
 
-¿Quieres que incluya capturas de pantalla o un demo en línea si tienes uno?
+
