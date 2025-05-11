@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ramo de Rosas Rojas",
+    "nombre_cientifico": "Rosa spp.",
+    "descripcion": "Hermoso ramo de 12 rosas rojas, ideal para ocasiones románticas.",
+    "precio": 25.99,
+    "stock": 12,
+    "categoria": "Ramos",
+    "imagen": "rosas.jpg",
+    "destacado": true
+  },
+  {
+    "id": 2,
+    "nombre": "Ramo de girasoles",
+    "nombre_cientifico": "Helianthus annuus",
+    "descripcion": "Girasoles grandes y vibrantes, ideal para alegrar cualquier rincón.",
+    "precio": 4.5,
+    "stock": 45,
+    "categoria": "Individual",
+    "imagen": "girasol.jpg",
+    "destacado": false
+  },
+  {
+    "id": 3,
+    "nombre": "Ramo de orquídeas Blancas",
+    "nombre_cientifico": "Orchidaceae",
+    "descripcion": "Orquídea elegante en maceta. Perfecta para regalar.",
+    "precio": 34.0,
+    "stock": 8,
+    "categoria": "Decoración",
+    "imagen": "orquideas.jpg",
+    "destacado": true
+  },
+  {
+    "id": 4,
+    "nombre": "Ramo de Lirios",
+    "nombre_cientifico": "Lilium",
+    "descripcion": "Ramo fresco de lirios blancos, símbolo de pureza y elegancia.",
+    "precio": 29.9,
+    "stock": 6,
+    "categoria": "Ramos",
+    "imagen": "lirios.jpg",
+    "destacado": false
+  },
+  {
+    "id": 5,
+    "nombre": "Ramo de Tulipanes Rosas",
+    "nombre_cientifico": "Tulipa",
+    "descripcion": "Un ramo de tulipanes rosas, ideal para cualquier ocasión especial.",
+    "precio": 18.75,
+    "stock": 10,
+    "categoria": "Ramos",
+    "imagen": "tulipanes.jpg",
+    "destacado": true
+  },
+  {
+    "id": 6,
+    "nombre": "Ramo de Violetas",
+    "nombre_cientifico": "Viola",
+    "descripcion": "Hermoso ramo de violetas frescas con un toque de elegancia y color.",
+    "precio": 12.0,
+    "stock": 20,
+    "categoria": "Ramos",
+    "imagen": "violetas.jpg",
+    "destacado": false
+  },
+  {
+    "id": 7,
+    "nombre": "Ramo de Flores Silvestres",
+    "nombre_cientifico": "Diversas especies",
+    "descripcion": "Ramo compuesto por diversas flores silvestres de temporada.",
+    "precio": 22.5,
+    "stock": 15,
+    "categoria": "Decoración",
+    "imagen": "flores_silvestres.jpg",
+    "destacado": true
+  },
+  {
+    "id": 8,
+    "nombre": "Ramo de Margaritas",
+    "nombre_cientifico": "Bellis perennis",
+    "descripcion": "Ramo de margaritas frescas, ideal para regalar en cualquier ocasión.",
+    "precio": 14.99,
+    "stock": 30,
+    "categoria": "Ramos",
+    "imagen": "margaritas.jpg",
+    "destacado": false
+  },
+  {
+    "id": 9,
+    "nombre": "Ramo de Jazmín",
+    "nombre_cientifico": "Jasminum",
+    "descripcion": "Ramo de jazmín con un aroma envolvente y delicado.",
+    "precio": 27.0,
+    "stock": 7,
+    "categoria": "Ramos",
+    "imagen": "jazmin.jpg",
+    "destacado": true
+  },
+  {
+    "id": 10,
+    "nombre": "Ramo de Peonías",
+    "nombre_cientifico": "Paeonia",
+    "descripcion": "Ramo de peonías rojas, símbolo de belleza y buena fortuna.",
+    "precio": 32.0,
+    "stock": 5,
+    "categoria": "Ramos",
+    "imagen": "peonias.jfif",
+    "destacado": false
+  }
+]
