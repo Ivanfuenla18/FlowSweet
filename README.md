@@ -55,6 +55,8 @@ bash
 Copiar
 Editar
 npm run dev
+
+
 📬 Contacto
 Si tienes alguna sugerencia o quieres colaborar, no dudes en escribirme a [ivanfuenla18@gmail.com] o abrir un issue.
 
